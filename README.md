@@ -2,7 +2,7 @@
 
 ## ⚡🙋‍♂️ Tentang Gue
 <p>
- Halo Semuanya Gue Keidjaru Axiro buset keren bet nama gue ya, gue nyolong template ini dari orang Github
+ Mental Illness Coder
 </p>
 </br>
 <p>
