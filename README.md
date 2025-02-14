@@ -22,17 +22,21 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=openjdk)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-276DC3?style=flat&logo=kotlin)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-276DC3?style=flat&logo=php&logoColor=blue&color=0B2C4A)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-276DC3?style=flat&logo=javascript&logoColor=yellow&color=323330)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-276DC3?style=flat&logo=typescript&color=323330)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-276DC3?style=flat&logo=php&logoColor=blue&color=0B2C4A)&nbsp;
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-0078D7?logo=?style=flat&logo=visualbasic&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 
 #### Development
+![Express](https://img.shields.io/badge/Express-F7DF1E?style=flat&logo=express&logoColor=black)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-176AA6?style=flat&logo=prisma)&nbsp;
+![EJS](https://img.shields.io/badge/EJS-176AA6?style=flat&logo=ejs)&nbsp;
+![JsonWebToken](https://img.shields.io/badge/JWT-133AA6?style=flat&logo=jsonwebtokens)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-0078D7?style=flat&logo=dotnet&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express-F7DF1E?style=flat&logo=express&logoColor=black)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
 <!--      
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
